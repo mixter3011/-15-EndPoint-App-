@@ -24,4 +24,7 @@ To start using NFTicket, follow these simple steps:
 2. After downloading the APK it would require some permissions for the installation process to start
 3. Since, this App is in a Developing Stage the App uses My Personal Account which contains an inbuilt Wallet containing 5.2 ETH. 
 4. The Payment Route is Self-Routing i.e, any payment done for now the Transaction amount will lead back to me
-5. The App is self Explanatory to traverse and it's been made in such a way that the User finds it most convenient to traverse across the App. 
+5. The App is self Explanatory to traverse and it's been made in such a way that the User finds it most convenient to traverse across the App.
+
+[![Watch the video](https://img.youtube.com/vi/6n5qTr5hbis/0.jpg)](https://www.youtube.com/watch?v=6n5qTr5hbis)
+
