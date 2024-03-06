@@ -26,5 +26,7 @@ To start using NFTicket, follow these simple steps:
 4. The Payment Route is Self-Routing i.e, any payment done for now the Transaction amount will lead back to me
 5. The App is self Explanatory to traverse and it's been made in such a way that the User finds it most convenient to traverse across the App.
 
+### To Download & Install the App please follow the Drive link provided in the Decscription or you can access the Drive link from the Website itself. 
+
 [![Watch the video](https://img.youtube.com/vi/6n5qTr5hbis/0.jpg)](https://www.youtube.com/watch?v=6n5qTr5hbis)
 
